@@ -1,2 +1,3 @@
 # EatMore
-A snake game
+VR-version Gluttonous Snake 
+game based on iOS
